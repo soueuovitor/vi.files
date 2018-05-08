@@ -6,9 +6,12 @@ call plug#begin('~/.vim/plugged')
 
 
 <<<<<<< HEAD
-=======
+" dd; fetches https://github.com/junegunn/vim-easy-align
+||||||| merged common ancestors
 " ksdjfShorthand notation; fetches https://github.com/junegunn/vim-easy-align
->>>>>>> f569deacfc3ba594971340a993797bdf8f7d4565
+=======
+" ksdjf Shorthand nota; fetches https://github.com/junegunn/vim-easy-align
+>>>>>>> ec2d007f2851cc0806c20f9da6065deba22c1836
 Plug 'scrooloose/nerdcommenter'
 Plug 'morhetz/gruvbox'
 Plug 'neomake/neomake'
@@ -18,9 +21,15 @@ Plug 'itchyny/lightline.vim'
 Plug 'Valloric/YouCompleteMe'
 Plug 'kien/ctrlp.vim'
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
+<<<<<<< HEAD
+" Aasdfjny valid git URL is allowed
+||||||| merged common ancestors
 " Any valid git URL is allowed
+=======
+" Any vasdfalid git URL is allowed
+>>>>>>> ec2d007f2851cc0806c20f9da6065deba22c1836
 Plug 'tclem/vim-arduino'
-" Multiple Plug commands can be written in a single line using | separators
+" Multipleaf Plug commands can be written in a single line using | separators
 Plug 'valloric/matchtagalways'
 Plug 'junegunn/vim-easy-align'
 Plug 'tpope/vim-fugitive'
